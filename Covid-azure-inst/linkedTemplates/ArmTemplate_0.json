@@ -662,7 +662,7 @@
 					"recurrence": {
 						"frequency": "Day",
 						"interval": 1,
-						"startTime": "2026-05-06T11:59:00",
+						"startTime": "2026-05-06T15:01:00",
 						"timeZone": "GTB Standard Time",
 						"schedule": {}
 					}
