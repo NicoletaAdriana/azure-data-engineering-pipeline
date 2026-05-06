@@ -20,6 +20,12 @@
 		"tr_ingest_population_data_properties_typeProperties_scope": {
 			"value": "/subscriptions/4d5a93ad-e301-4c36-880c-57f0f6550f9d/resourceGroups/Covid-azure-grp/providers/Microsoft.Storage/storageAccounts/covidazuresa"
 		},
+		"tr_ingest_hospital_admissions_data_properties_pl_ingest_ecdc_data_parameters_sourceRelativeURL": {
+			"value": "cloudboxacademy/covid19/blob/main/ecdc_data/hospital_admissions.csv"
+		},
+		"tr_ingest_hospital_admissions_data_properties_pl_ingest_ecdc_data_parameters_sinkFileName": {
+			"value": "hospital_admissions.csv"
+		},
 		"containerUri": {
 			"value": ""
 		},
